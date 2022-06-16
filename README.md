@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://hunterdrakar.github.io/landing-page-flexbox/" target="_blank">
-    <img src="https://github.com/HunterDrakar/landing-page-flexbox/blob/Main/images/capa-light.png" alt="Landing Page"> 
+    <img src="https://github.com/HunterDrakar/landing-page-flexbox/blob/Main/images/capa-light.jpg" alt="Landing Page"> 
   <a href="https://HunterDrakar.github.io/landing-page-flexbox/">
     <img src="https://github.com/HunterDrakar/landing-page-flexbox/blob/Main/images/capa-dark.jpg" alt="Landing Page">
   </a>
